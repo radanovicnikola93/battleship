@@ -1,5 +1,10 @@
 from random import randint
 
+print "***BATTLESHIP***"
+print "Hi! This is a simple Battleship game."
+print "You have 4 tries. The board grid is 5x5, please enter numbers from 0 to 4."
+print "Have fun!"
+
 board = []
 
 for i in range(5):
